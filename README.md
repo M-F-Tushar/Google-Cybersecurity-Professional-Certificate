@@ -15,7 +15,7 @@ This repository contains my **personal notes** from the [Google Cybersecurity Pr
 ## 📖 Course Structure  
 The course consists of **8 modules**, and my notes are structured accordingly:  
 
-1️⃣ [**Course 1:** Foundations of Cybersecurity](course-1.md) 🏛️  
+1️⃣ [**Course 1:** Foundations of Cybersecurity](https://github.com/M-F-Tushar/Google-Cybersecurity-Professional-Certificate/tree/main/Course%201%3A%20Foundations%20of%20Cybersecurity) 🏛️  
 2️⃣ [**Course 2:** Play It Safe: Manage Security Risks](course-2.md) ⚖️  
 3️⃣ [**Course 3:** Networks and Network Security](course-3.md) 🌍  
 4️⃣ [**Course 4:** Linux and SQL for Cybersecurity](course-4.md) 🐧📊  
