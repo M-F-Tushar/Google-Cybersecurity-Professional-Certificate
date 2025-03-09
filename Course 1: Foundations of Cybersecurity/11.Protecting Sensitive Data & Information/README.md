@@ -7,7 +7,7 @@ Hello! My name is Heather, and I’m the **Vice President of Security Engineerin
 When handling **PII on behalf of others**, we must be **deliberate** in how we:
 - **Collect & Store Data** – Always know **where data is stored** and **who has access to it**.
 - **Secure Information** – Use **encryption** and **access controls** to prevent unauthorized access.
-- **Comply with Regulations** – Follow laws like **GDPR** and **HIPAA** to ensure data security.
+- **Comply with Regulations** – Follow laws like **GDPR** (The General Data Protection Regulation) and **HIPAA** (The Health Insurance Portability and Accountability Act) to ensure data security.
 
 ### **Your Role in Data Security 🛡️**
 Depending on your job, you may need to:
