@@ -1,7 +1,7 @@
 # 📡 The Four Layers of the TCP/IP Model 🌐
 
 ## Introduction
-Now that we've discussed the structure of a network and how communications take place, it's important for you to know how security professionals identify problems that might arise. The TCP/IP model is a framework that is used to visualize how data is organized and transmitted across the network. The TCP/IP model has four layers. Knowing how the TCP/IP model organizes network activity allows security professionals to monitor and secure against risks. Let's examine these layers one at a time. 🚀
+Now that we've discussed the structure of a network and how communications take place, it's important to know how security professionals identify problems that might arise. The TCP/IP model is a framework that is used to visualize how data is organized and transmitted across the network. The TCP/IP model has four layers. Knowing how the TCP/IP model organizes network activity allows security professionals to monitor and secure against risks. Let's examine these layers one at a time. 🚀
 
 ## Layer 1: Network Access Layer 🛠️
 The network access layer deals with the creation of data packets and their transmission across a network. This includes hardware devices connected to physical cables and switches that direct data to its destination. 🌐
