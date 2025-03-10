@@ -1,7 +1,7 @@
 # 🌐 The TCP/IP Model: Understanding Network Communication 🖧
 
 ## Introduction
-Hello again. In this video, you'll learn more about communication protocols and devices used to communicate with each other across the internet. This is called the TCP/IP model. 🚀
+Hello again. In this chapter, you'll learn more about communication protocols and devices used to communicate with each other across the internet. This is called the TCP/IP model. 🚀
 
 ## What is TCP/IP? 🔍
 
