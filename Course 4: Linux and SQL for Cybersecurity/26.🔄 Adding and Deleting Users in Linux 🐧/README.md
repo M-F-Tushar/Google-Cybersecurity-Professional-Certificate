@@ -25,3 +25,15 @@ Running commands as a root user can be problematic due to:
 To add a new user, use the `useradd` command. We'll add a new representative with the username `salesrep7`:
 ```bash
 sudo useradd salesrep7
+This command doesn't display anything on the screen, but if it worked, you'll see a new Bash cursor without an error message. If there was an error, it might be due to a typo or lack of sudo privileges. 🎉
+
+Deleting Users with userdel ➖
+Example: Deleting a User
+To delete a user, use the userdel command. Imagine the sales representative salesrep7 leaves the company:
+
+bash
+sudo userdel salesrep7
+Again, a new Bash cursor indicates the command worked successfully. 🚀
+
+Conclusion 🌟
+We've covered how to add and delete users and how these actions require sudo. Remember to use these special privileges responsibly to ensure a secure system. Keep practicing, and you'll master these commands in no time! 😊
