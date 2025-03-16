@@ -1,7 +1,7 @@
 # 🔒 VPNs: Adding Security to Your Network 🌐
 
 ## Introduction
-In this video, we're going to discuss how virtual private networks, or VPNs, add security to your network. 🌟
+In this section, we're going to discuss how virtual private networks, or VPNs, add security to your network. 🌟
 
 ## How VPNs Work 🚀
 When you connect to the internet, your internet service provider (ISP) receives your network's requests and forwards them to the correct destination server. 🌐 But your internet requests include your private information. If the traffic gets intercepted, someone could potentially connect your internet activity with your physical location and personal information. 😨 This includes some information that you want to keep private, like bank accounts and credit card numbers. 💳🏦
